@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Day</string>
+    <string name="nameAppDay">DAY!</string>
+    <string name="description">Это приложение создано, чтобы поднимать настроение. Хотите начать?</string>
+    <string name="question">Хотите получить шутку или забавную картинку?</string>
+    <string name="getJoke">Жизнь дается один раз, а удается еще реже</string>
+    <string name="getPicture">Картинка</string>
+    <string name="start">Начать</string>
+    <string name="goBack">На главную</string>
+    <string name="randomJoke">Сгенерировать</string>
+    <string name="aJoke">Здесь выведется шутка</string>
+    <string name="aJokes">Шутка</string>
+</resources>
